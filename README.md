@@ -15,8 +15,8 @@ This is the frontend for the Primes Checker application. It provides a simple UI
 
 ### **2. Clone and Navigate to the Project**
 ```sh
-git clone https://github.com/YOURORGANIZATION/Practicum3.git
-cd Practicum3/practicum3
+git clone https://github.com/tbudhran15/tarash_practicum3_frontend.git
+cd tarash_practicum3_frontend/practicum3
 ```
 
 ### **3. Running the Frontend**
